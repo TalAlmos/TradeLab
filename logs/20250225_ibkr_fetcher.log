@@ -1,0 +1,424 @@
+2025-02-25 13:57:07,975 - src.tradelab.data.ibkr_fetcher - INFO - Data will be saved to: D:\TradeLAB\data\raw
+2025-02-25 13:57:08,388 - src.tradelab.data.ibkr_fetcher - INFO - Successfully connected to IBKR
+2025-02-25 13:57:08,802 - src.tradelab.data.ibkr_fetcher - INFO - Requesting data for CSAI from 2025-02-24 00:00:00-05:00 to 2025-02-24 00:00:00-05:00
+2025-02-25 13:57:09,336 - src.tradelab.data.ibkr_fetcher - INFO - Retrieved 390 minutes of data for 2025-02-24
+2025-02-25 13:57:09,343 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\CSAI\raw_CSAI_2025-02-24.csv
+2025-02-25 13:57:09,344 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-24
+2025-02-25 13:57:10,630 - src.tradelab.data.ibkr_fetcher - INFO - Requesting data for FFIE from 2025-02-24 00:00:00-05:00 to 2025-02-24 00:00:00-05:00
+2025-02-25 13:57:11,159 - src.tradelab.data.ibkr_fetcher - INFO - Retrieved 390 minutes of data for 2025-02-24
+2025-02-25 13:57:11,165 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\FFIE\raw_FFIE_2025-02-24.csv
+2025-02-25 13:57:11,166 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-24
+2025-02-25 13:57:12,461 - src.tradelab.data.ibkr_fetcher - INFO - Requesting data for SXTC from 2025-02-24 00:00:00-05:00 to 2025-02-24 00:00:00-05:00
+2025-02-25 13:57:13,136 - src.tradelab.data.ibkr_fetcher - INFO - Retrieved 390 minutes of data for 2025-02-24
+2025-02-25 13:57:13,142 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\SXTC\raw_SXTC_2025-02-24.csv
+2025-02-25 13:57:13,143 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-24
+2025-02-25 13:57:14,433 - src.tradelab.data.ibkr_fetcher - INFO - Requesting data for TIL from 2025-02-24 00:00:00-05:00 to 2025-02-24 00:00:00-05:00
+2025-02-25 13:57:14,958 - src.tradelab.data.ibkr_fetcher - INFO - Retrieved 390 minutes of data for 2025-02-24
+2025-02-25 13:57:14,964 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\TIL\raw_TIL_2025-02-24.csv
+2025-02-25 13:57:14,964 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-24
+2025-02-25 13:57:16,253 - src.tradelab.data.ibkr_fetcher - INFO - Requesting data for AZI from 2025-02-24 00:00:00-05:00 to 2025-02-24 00:00:00-05:00
+2025-02-25 13:57:16,795 - src.tradelab.data.ibkr_fetcher - INFO - Retrieved 390 minutes of data for 2025-02-24
+2025-02-25 13:57:16,801 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\AZI\raw_AZI_2025-02-24.csv
+2025-02-25 13:57:16,802 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-24
+2025-02-25 13:57:18,216 - src.tradelab.data.ibkr_fetcher - INFO - Requesting data for FOXO from 2025-02-24 00:00:00-05:00 to 2025-02-24 00:00:00-05:00
+2025-02-25 13:57:18,738 - src.tradelab.data.ibkr_fetcher - INFO - Retrieved 390 minutes of data for 2025-02-24
+2025-02-25 13:57:18,743 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\FOXO\raw_FOXO_2025-02-24.csv
+2025-02-25 13:57:18,744 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-24
+2025-02-25 13:57:20,082 - src.tradelab.data.ibkr_fetcher - INFO - Requesting data for CTNT from 2025-02-24 00:00:00-05:00 to 2025-02-24 00:00:00-05:00
+2025-02-25 13:57:20,783 - src.tradelab.data.ibkr_fetcher - INFO - Retrieved 390 minutes of data for 2025-02-24
+2025-02-25 13:57:20,790 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\CTNT\raw_CTNT_2025-02-24.csv
+2025-02-25 13:57:20,790 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-24
+2025-02-25 13:57:22,131 - src.tradelab.data.ibkr_fetcher - INFO - Requesting data for GNLN from 2025-02-24 00:00:00-05:00 to 2025-02-24 00:00:00-05:00
+2025-02-25 13:57:22,660 - src.tradelab.data.ibkr_fetcher - INFO - Retrieved 390 minutes of data for 2025-02-24
+2025-02-25 13:57:22,666 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\GNLN\raw_GNLN_2025-02-24.csv
+2025-02-25 13:57:22,666 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-24
+2025-02-25 13:57:23,959 - src.tradelab.data.ibkr_fetcher - INFO - Requesting data for GOVX from 2025-02-24 00:00:00-05:00 to 2025-02-24 00:00:00-05:00
+2025-02-25 13:57:24,497 - src.tradelab.data.ibkr_fetcher - INFO - Retrieved 390 minutes of data for 2025-02-24
+2025-02-25 13:57:24,505 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\GOVX\raw_GOVX_2025-02-24.csv
+2025-02-25 13:57:24,505 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-24
+2025-02-25 13:57:25,580 - src.tradelab.data.ibkr_fetcher - INFO - Requesting data for NNE from 2025-02-24 00:00:00-05:00 to 2025-02-24 00:00:00-05:00
+2025-02-25 13:57:25,968 - src.tradelab.data.ibkr_fetcher - INFO - Retrieved 390 minutes of data for 2025-02-24
+2025-02-25 13:57:25,975 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\NNE\raw_NNE_2025-02-24.csv
+2025-02-25 13:57:25,975 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-24
+2025-02-25 13:57:27,266 - src.tradelab.data.ibkr_fetcher - INFO - Requesting data for SMCI from 2025-02-24 00:00:00-05:00 to 2025-02-24 00:00:00-05:00
+2025-02-25 13:57:27,790 - src.tradelab.data.ibkr_fetcher - INFO - Retrieved 390 minutes of data for 2025-02-24
+2025-02-25 13:57:27,797 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\SMCI\raw_SMCI_2025-02-24.csv
+2025-02-25 13:57:27,798 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-24
+2025-02-25 13:59:59,057 - src.tradelab.data.ibkr_fetcher - INFO - Data will be saved to: D:\TradeLAB\data\raw
+2025-02-25 13:59:59,473 - src.tradelab.data.ibkr_fetcher - INFO - Successfully connected to IBKR
+2025-02-25 13:59:59,553 - src.tradelab.data.ibkr_fetcher - INFO - Requesting data for CSAI from 2025-02-03 00:00:00-05:00 to 2025-02-21 00:00:00-05:00
+2025-02-25 13:59:59,938 - src.tradelab.data.ibkr_fetcher - INFO - Retrieved 390 minutes of data for 2025-02-03
+2025-02-25 13:59:59,946 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\CSAI\raw_CSAI_2025-02-03.csv
+2025-02-25 13:59:59,947 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-03
+2025-02-25 14:00:01,020 - src.tradelab.data.ibkr_fetcher - INFO - Requesting data for FFIE from 2025-02-03 00:00:00-05:00 to 2025-02-21 00:00:00-05:00
+2025-02-25 14:00:01,400 - src.tradelab.data.ibkr_fetcher - INFO - Retrieved 390 minutes of data for 2025-02-03
+2025-02-25 14:00:01,409 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\FFIE\raw_FFIE_2025-02-03.csv
+2025-02-25 14:00:01,410 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-03
+2025-02-25 14:00:02,484 - src.tradelab.data.ibkr_fetcher - INFO - Requesting data for SXTC from 2025-02-03 00:00:00-05:00 to 2025-02-21 00:00:00-05:00
+2025-02-25 14:00:03,007 - src.tradelab.data.ibkr_fetcher - INFO - Retrieved 374 minutes of data for 2025-02-03
+2025-02-25 14:00:03,013 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\SXTC\raw_SXTC_2025-02-03.csv
+2025-02-25 14:00:03,013 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 374 records for 2025-02-03
+2025-02-25 14:00:04,089 - src.tradelab.data.ibkr_fetcher - INFO - Requesting data for TIL from 2025-02-03 00:00:00-05:00 to 2025-02-21 00:00:00-05:00
+2025-02-25 14:00:04,463 - src.tradelab.data.ibkr_fetcher - INFO - Retrieved 390 minutes of data for 2025-02-03
+2025-02-25 14:00:04,469 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\TIL\raw_TIL_2025-02-03.csv
+2025-02-25 14:00:04,469 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-03
+2025-02-25 14:00:05,544 - src.tradelab.data.ibkr_fetcher - INFO - Requesting data for AZI from 2025-02-03 00:00:00-05:00 to 2025-02-21 00:00:00-05:00
+2025-02-25 14:00:05,921 - src.tradelab.data.ibkr_fetcher - INFO - Retrieved 390 minutes of data for 2025-02-03
+2025-02-25 14:00:05,927 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\AZI\raw_AZI_2025-02-03.csv
+2025-02-25 14:00:05,928 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-03
+2025-02-25 14:00:07,001 - src.tradelab.data.ibkr_fetcher - INFO - Requesting data for FOXO from 2025-02-03 00:00:00-05:00 to 2025-02-21 00:00:00-05:00
+2025-02-25 14:00:07,380 - src.tradelab.data.ibkr_fetcher - INFO - Retrieved 390 minutes of data for 2025-02-03
+2025-02-25 14:00:07,386 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\FOXO\raw_FOXO_2025-02-03.csv
+2025-02-25 14:00:07,387 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-03
+2025-02-25 14:00:08,461 - src.tradelab.data.ibkr_fetcher - INFO - Requesting data for CTNT from 2025-02-03 00:00:00-05:00 to 2025-02-21 00:00:00-05:00
+2025-02-25 14:00:08,845 - src.tradelab.data.ibkr_fetcher - INFO - Retrieved 390 minutes of data for 2025-02-03
+2025-02-25 14:00:08,851 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\CTNT\raw_CTNT_2025-02-03.csv
+2025-02-25 14:00:08,851 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-03
+2025-02-25 14:00:09,926 - src.tradelab.data.ibkr_fetcher - INFO - Requesting data for GNLN from 2025-02-03 00:00:00-05:00 to 2025-02-21 00:00:00-05:00
+2025-02-25 14:00:10,348 - src.tradelab.data.ibkr_fetcher - INFO - Retrieved 390 minutes of data for 2025-02-03
+2025-02-25 14:00:10,353 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\GNLN\raw_GNLN_2025-02-03.csv
+2025-02-25 14:00:10,354 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-03
+2025-02-25 14:00:11,431 - src.tradelab.data.ibkr_fetcher - INFO - Requesting data for GOVX from 2025-02-03 00:00:00-05:00 to 2025-02-21 00:00:00-05:00
+2025-02-25 14:00:11,812 - src.tradelab.data.ibkr_fetcher - INFO - Retrieved 390 minutes of data for 2025-02-03
+2025-02-25 14:00:11,819 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\GOVX\raw_GOVX_2025-02-03.csv
+2025-02-25 14:00:11,820 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-03
+2025-02-25 14:00:12,895 - src.tradelab.data.ibkr_fetcher - INFO - Requesting data for NNE from 2025-02-03 00:00:00-05:00 to 2025-02-21 00:00:00-05:00
+2025-02-25 14:00:13,270 - src.tradelab.data.ibkr_fetcher - INFO - Retrieved 390 minutes of data for 2025-02-03
+2025-02-25 14:00:13,276 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\NNE\raw_NNE_2025-02-03.csv
+2025-02-25 14:00:13,276 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-03
+2025-02-25 14:00:14,350 - src.tradelab.data.ibkr_fetcher - INFO - Requesting data for SMCI from 2025-02-03 00:00:00-05:00 to 2025-02-21 00:00:00-05:00
+2025-02-25 14:00:14,732 - src.tradelab.data.ibkr_fetcher - INFO - Retrieved 390 minutes of data for 2025-02-03
+2025-02-25 14:00:14,737 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\SMCI\raw_SMCI_2025-02-03.csv
+2025-02-25 14:00:14,738 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-03
+2025-02-25 14:04:48,326 - src.tradelab.data.ibkr_fetcher - INFO - Data will be saved to: D:\TradeLAB\data\raw
+2025-02-25 14:04:48,739 - src.tradelab.data.ibkr_fetcher - INFO - Successfully connected to IBKR
+2025-02-25 14:04:49,136 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\CSAI\raw_CSAI_2025-02-03.csv
+2025-02-25 14:04:49,136 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-03
+2025-02-25 14:04:50,023 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\CSAI\raw_CSAI_2025-02-04.csv
+2025-02-25 14:04:50,023 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-04
+2025-02-25 14:04:50,933 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\CSAI\raw_CSAI_2025-02-05.csv
+2025-02-25 14:04:50,934 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-05
+2025-02-25 14:04:51,817 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\CSAI\raw_CSAI_2025-02-06.csv
+2025-02-25 14:04:51,818 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-06
+2025-02-25 14:04:52,703 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\CSAI\raw_CSAI_2025-02-07.csv
+2025-02-25 14:04:52,703 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-07
+2025-02-25 14:04:53,589 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\CSAI\raw_CSAI_2025-02-10.csv
+2025-02-25 14:04:53,589 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-10
+2025-02-25 14:04:54,484 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\CSAI\raw_CSAI_2025-02-11.csv
+2025-02-25 14:04:54,484 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-11
+2025-02-25 14:04:55,373 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\CSAI\raw_CSAI_2025-02-12.csv
+2025-02-25 14:04:55,373 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-12
+2025-02-25 14:04:56,278 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\CSAI\raw_CSAI_2025-02-13.csv
+2025-02-25 14:04:56,278 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-13
+2025-02-25 14:04:57,172 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\CSAI\raw_CSAI_2025-02-14.csv
+2025-02-25 14:04:57,172 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-14
+2025-02-25 14:04:58,057 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\CSAI\raw_CSAI_2025-02-17.csv
+2025-02-25 14:04:58,057 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-17
+2025-02-25 14:04:58,937 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\CSAI\raw_CSAI_2025-02-18.csv
+2025-02-25 14:04:58,937 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-18
+2025-02-25 14:04:59,815 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\CSAI\raw_CSAI_2025-02-19.csv
+2025-02-25 14:04:59,815 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-19
+2025-02-25 14:05:00,753 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\CSAI\raw_CSAI_2025-02-20.csv
+2025-02-25 14:05:00,754 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-20
+2025-02-25 14:05:01,639 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\CSAI\raw_CSAI_2025-02-21.csv
+2025-02-25 14:05:01,639 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-21
+2025-02-25 14:05:03,535 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\FFIE\raw_FFIE_2025-02-03.csv
+2025-02-25 14:05:03,536 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-03
+2025-02-25 14:05:04,421 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\FFIE\raw_FFIE_2025-02-04.csv
+2025-02-25 14:05:04,421 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-04
+2025-02-25 14:05:05,311 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\FFIE\raw_FFIE_2025-02-05.csv
+2025-02-25 14:05:05,311 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-05
+2025-02-25 14:05:06,201 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\FFIE\raw_FFIE_2025-02-06.csv
+2025-02-25 14:05:06,201 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-06
+2025-02-25 14:05:07,092 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\FFIE\raw_FFIE_2025-02-07.csv
+2025-02-25 14:05:07,092 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-07
+2025-02-25 14:05:07,985 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\FFIE\raw_FFIE_2025-02-10.csv
+2025-02-25 14:05:07,985 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-10
+2025-02-25 14:05:08,875 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\FFIE\raw_FFIE_2025-02-11.csv
+2025-02-25 14:05:08,875 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-11
+2025-02-25 14:05:09,764 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\FFIE\raw_FFIE_2025-02-12.csv
+2025-02-25 14:05:09,764 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-12
+2025-02-25 14:05:13,129 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\FFIE\raw_FFIE_2025-02-13.csv
+2025-02-25 14:05:13,129 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-13
+2025-02-25 14:05:14,020 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\FFIE\raw_FFIE_2025-02-14.csv
+2025-02-25 14:05:14,020 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-14
+2025-02-25 14:05:19,127 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\FFIE\raw_FFIE_2025-02-17.csv
+2025-02-25 14:05:19,127 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-17
+2025-02-25 14:05:20,013 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\FFIE\raw_FFIE_2025-02-18.csv
+2025-02-25 14:05:20,013 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-18
+2025-02-25 14:05:20,919 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\FFIE\raw_FFIE_2025-02-19.csv
+2025-02-25 14:05:20,919 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-19
+2025-02-25 14:05:21,810 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\FFIE\raw_FFIE_2025-02-20.csv
+2025-02-25 14:05:21,811 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-20
+2025-02-25 14:05:22,690 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\FFIE\raw_FFIE_2025-02-21.csv
+2025-02-25 14:05:22,691 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-21
+2025-02-25 14:05:31,134 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\SXTC\raw_SXTC_2025-02-03.csv
+2025-02-25 14:05:31,134 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-03
+2025-02-25 14:05:49,127 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\SXTC\raw_SXTC_2025-02-04.csv
+2025-02-25 14:05:49,128 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-04
+2025-02-25 14:05:50,177 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\SXTC\raw_SXTC_2025-02-05.csv
+2025-02-25 14:05:50,178 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-05
+2025-02-25 14:05:51,216 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\SXTC\raw_SXTC_2025-02-06.csv
+2025-02-25 14:05:51,216 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-06
+2025-02-25 14:05:52,253 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\SXTC\raw_SXTC_2025-02-07.csv
+2025-02-25 14:05:52,253 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-07
+2025-02-25 14:05:55,129 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\SXTC\raw_SXTC_2025-02-10.csv
+2025-02-25 14:05:55,129 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-10
+2025-02-25 14:05:56,161 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\SXTC\raw_SXTC_2025-02-11.csv
+2025-02-25 14:05:56,161 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-11
+2025-02-25 14:06:01,132 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\SXTC\raw_SXTC_2025-02-12.csv
+2025-02-25 14:06:01,132 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-12
+2025-02-25 14:06:02,165 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\SXTC\raw_SXTC_2025-02-13.csv
+2025-02-25 14:06:02,165 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-13
+2025-02-25 14:06:07,128 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\SXTC\raw_SXTC_2025-02-14.csv
+2025-02-25 14:06:07,129 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-14
+2025-02-25 14:06:08,160 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\SXTC\raw_SXTC_2025-02-17.csv
+2025-02-25 14:06:08,161 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-17
+2025-02-25 14:06:13,273 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\SXTC\raw_SXTC_2025-02-18.csv
+2025-02-25 14:06:13,273 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-18
+2025-02-25 14:06:14,293 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\SXTC\raw_SXTC_2025-02-19.csv
+2025-02-25 14:06:14,293 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-19
+2025-02-25 14:06:19,271 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\SXTC\raw_SXTC_2025-02-20.csv
+2025-02-25 14:06:19,272 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 374 records for 2025-02-20
+2025-02-25 14:06:25,276 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\SXTC\raw_SXTC_2025-02-21.csv
+2025-02-25 14:06:25,276 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-21
+2025-02-25 14:06:31,128 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\TIL\raw_TIL_2025-02-03.csv
+2025-02-25 14:06:31,129 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-03
+2025-02-25 14:06:37,126 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\TIL\raw_TIL_2025-02-04.csv
+2025-02-25 14:06:37,127 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-04
+2025-02-25 14:06:49,125 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\TIL\raw_TIL_2025-02-05.csv
+2025-02-25 14:06:49,126 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-05
+2025-02-25 14:06:50,013 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\TIL\raw_TIL_2025-02-06.csv
+2025-02-25 14:06:50,013 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-06
+2025-02-25 14:06:50,945 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\TIL\raw_TIL_2025-02-07.csv
+2025-02-25 14:06:50,946 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-07
+2025-02-25 14:06:51,834 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\TIL\raw_TIL_2025-02-10.csv
+2025-02-25 14:06:51,835 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-10
+2025-02-25 14:06:52,720 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\TIL\raw_TIL_2025-02-11.csv
+2025-02-25 14:06:52,721 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-11
+2025-02-25 14:06:53,609 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\TIL\raw_TIL_2025-02-12.csv
+2025-02-25 14:06:53,610 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-12
+2025-02-25 14:06:54,490 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\TIL\raw_TIL_2025-02-13.csv
+2025-02-25 14:06:54,490 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-13
+2025-02-25 14:06:55,386 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\TIL\raw_TIL_2025-02-14.csv
+2025-02-25 14:06:55,387 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-14
+2025-02-25 14:06:56,276 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\TIL\raw_TIL_2025-02-17.csv
+2025-02-25 14:06:56,277 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-17
+2025-02-25 14:06:57,161 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\TIL\raw_TIL_2025-02-18.csv
+2025-02-25 14:06:57,161 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-18
+2025-02-25 14:06:58,043 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\TIL\raw_TIL_2025-02-19.csv
+2025-02-25 14:06:58,043 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-19
+2025-02-25 14:06:58,923 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\TIL\raw_TIL_2025-02-20.csv
+2025-02-25 14:06:58,923 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-20
+2025-02-25 14:06:59,806 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\TIL\raw_TIL_2025-02-21.csv
+2025-02-25 14:06:59,807 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-21
+2025-02-25 14:07:01,699 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\AZI\raw_AZI_2025-02-03.csv
+2025-02-25 14:07:01,699 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-03
+2025-02-25 14:07:02,587 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\AZI\raw_AZI_2025-02-04.csv
+2025-02-25 14:07:02,588 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 389 records for 2025-02-04
+2025-02-25 14:07:03,486 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\AZI\raw_AZI_2025-02-05.csv
+2025-02-25 14:07:03,487 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-05
+2025-02-25 14:07:04,374 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\AZI\raw_AZI_2025-02-06.csv
+2025-02-25 14:07:04,374 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-06
+2025-02-25 14:07:05,261 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\AZI\raw_AZI_2025-02-07.csv
+2025-02-25 14:07:05,261 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-07
+2025-02-25 14:07:06,145 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\AZI\raw_AZI_2025-02-10.csv
+2025-02-25 14:07:06,146 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-10
+2025-02-25 14:07:07,031 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\AZI\raw_AZI_2025-02-11.csv
+2025-02-25 14:07:07,032 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-11
+2025-02-25 14:07:07,919 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\AZI\raw_AZI_2025-02-12.csv
+2025-02-25 14:07:07,919 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-12
+2025-02-25 14:07:08,816 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\AZI\raw_AZI_2025-02-13.csv
+2025-02-25 14:07:08,817 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-13
+2025-02-25 14:07:09,709 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\AZI\raw_AZI_2025-02-14.csv
+2025-02-25 14:07:09,709 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-14
+2025-02-25 14:07:13,129 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\AZI\raw_AZI_2025-02-17.csv
+2025-02-25 14:07:13,129 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-17
+2025-02-25 14:07:14,009 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\AZI\raw_AZI_2025-02-18.csv
+2025-02-25 14:07:14,010 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-18
+2025-02-25 14:07:14,908 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\AZI\raw_AZI_2025-02-19.csv
+2025-02-25 14:07:14,909 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-19
+2025-02-25 14:07:15,789 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\AZI\raw_AZI_2025-02-20.csv
+2025-02-25 14:07:15,789 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-20
+2025-02-25 14:07:16,686 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\AZI\raw_AZI_2025-02-21.csv
+2025-02-25 14:07:16,687 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-21
+2025-02-25 14:07:18,576 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\FOXO\raw_FOXO_2025-02-03.csv
+2025-02-25 14:07:18,576 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-03
+2025-02-25 14:07:19,457 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\FOXO\raw_FOXO_2025-02-04.csv
+2025-02-25 14:07:19,458 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-04
+2025-02-25 14:07:25,130 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\FOXO\raw_FOXO_2025-02-05.csv
+2025-02-25 14:07:25,131 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-05
+2025-02-25 14:07:31,130 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\FOXO\raw_FOXO_2025-02-06.csv
+2025-02-25 14:07:31,130 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-06
+2025-02-25 14:07:37,151 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\FOXO\raw_FOXO_2025-02-07.csv
+2025-02-25 14:07:37,151 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-07
+2025-02-25 14:07:49,131 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\FOXO\raw_FOXO_2025-02-10.csv
+2025-02-25 14:07:49,132 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-10
+2025-02-25 14:07:50,017 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\FOXO\raw_FOXO_2025-02-11.csv
+2025-02-25 14:07:50,018 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-11
+2025-02-25 14:07:50,953 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\FOXO\raw_FOXO_2025-02-12.csv
+2025-02-25 14:07:50,953 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-12
+2025-02-25 14:07:51,863 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\FOXO\raw_FOXO_2025-02-13.csv
+2025-02-25 14:07:51,864 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-13
+2025-02-25 14:07:52,755 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\FOXO\raw_FOXO_2025-02-14.csv
+2025-02-25 14:07:52,756 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-14
+2025-02-25 14:07:53,638 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\FOXO\raw_FOXO_2025-02-17.csv
+2025-02-25 14:07:53,639 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-17
+2025-02-25 14:07:54,515 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\FOXO\raw_FOXO_2025-02-18.csv
+2025-02-25 14:07:54,516 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-18
+2025-02-25 14:07:55,393 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\FOXO\raw_FOXO_2025-02-19.csv
+2025-02-25 14:07:55,394 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-19
+2025-02-25 14:07:56,339 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\FOXO\raw_FOXO_2025-02-20.csv
+2025-02-25 14:07:56,340 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-20
+2025-02-25 14:07:57,221 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\FOXO\raw_FOXO_2025-02-21.csv
+2025-02-25 14:07:57,221 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-21
+2025-02-25 14:07:59,113 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\CTNT\raw_CTNT_2025-02-03.csv
+2025-02-25 14:07:59,113 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-03
+2025-02-25 14:07:59,997 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\CTNT\raw_CTNT_2025-02-04.csv
+2025-02-25 14:07:59,998 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-04
+2025-02-25 14:08:00,958 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\CTNT\raw_CTNT_2025-02-05.csv
+2025-02-25 14:08:00,958 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-05
+2025-02-25 14:08:01,843 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\CTNT\raw_CTNT_2025-02-06.csv
+2025-02-25 14:08:01,844 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-06
+2025-02-25 14:08:02,732 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\CTNT\raw_CTNT_2025-02-07.csv
+2025-02-25 14:08:02,732 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-07
+2025-02-25 14:08:03,716 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\CTNT\raw_CTNT_2025-02-10.csv
+2025-02-25 14:08:03,717 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-10
+2025-02-25 14:08:04,612 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\CTNT\raw_CTNT_2025-02-11.csv
+2025-02-25 14:08:04,612 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-11
+2025-02-25 14:08:05,496 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\CTNT\raw_CTNT_2025-02-12.csv
+2025-02-25 14:08:05,496 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-12
+2025-02-25 14:08:06,383 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\CTNT\raw_CTNT_2025-02-13.csv
+2025-02-25 14:08:06,384 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-13
+2025-02-25 14:08:07,270 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\CTNT\raw_CTNT_2025-02-14.csv
+2025-02-25 14:08:07,271 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-14
+2025-02-25 14:08:08,164 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\CTNT\raw_CTNT_2025-02-17.csv
+2025-02-25 14:08:08,164 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-17
+2025-02-25 14:08:09,047 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\CTNT\raw_CTNT_2025-02-18.csv
+2025-02-25 14:08:09,048 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-18
+2025-02-25 14:08:09,928 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\CTNT\raw_CTNT_2025-02-19.csv
+2025-02-25 14:08:09,928 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-19
+2025-02-25 14:08:10,951 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\CTNT\raw_CTNT_2025-02-20.csv
+2025-02-25 14:08:10,951 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-20
+2025-02-25 14:08:11,847 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\CTNT\raw_CTNT_2025-02-21.csv
+2025-02-25 14:08:11,847 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-21
+2025-02-25 14:08:13,760 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\GNLN\raw_GNLN_2025-02-03.csv
+2025-02-25 14:08:13,760 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-03
+2025-02-25 14:08:14,645 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\GNLN\raw_GNLN_2025-02-04.csv
+2025-02-25 14:08:14,645 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-04
+2025-02-25 14:08:15,529 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\GNLN\raw_GNLN_2025-02-05.csv
+2025-02-25 14:08:15,529 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-05
+2025-02-25 14:08:16,419 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\GNLN\raw_GNLN_2025-02-06.csv
+2025-02-25 14:08:16,419 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-06
+2025-02-25 14:08:19,130 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\GNLN\raw_GNLN_2025-02-07.csv
+2025-02-25 14:08:19,130 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-07
+2025-02-25 14:08:25,134 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\GNLN\raw_GNLN_2025-02-10.csv
+2025-02-25 14:08:25,134 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-10
+2025-02-25 14:08:31,130 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\GNLN\raw_GNLN_2025-02-11.csv
+2025-02-25 14:08:31,131 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-11
+2025-02-25 14:08:37,133 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\GNLN\raw_GNLN_2025-02-12.csv
+2025-02-25 14:08:37,134 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-12
+2025-02-25 14:08:49,134 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\GNLN\raw_GNLN_2025-02-13.csv
+2025-02-25 14:08:49,134 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-13
+2025-02-25 14:08:50,020 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\GNLN\raw_GNLN_2025-02-14.csv
+2025-02-25 14:08:50,020 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-14
+2025-02-25 14:08:50,962 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\GNLN\raw_GNLN_2025-02-17.csv
+2025-02-25 14:08:50,963 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-17
+2025-02-25 14:08:51,843 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\GNLN\raw_GNLN_2025-02-18.csv
+2025-02-25 14:08:51,843 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-18
+2025-02-25 14:08:52,722 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\GNLN\raw_GNLN_2025-02-19.csv
+2025-02-25 14:08:52,722 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-19
+2025-02-25 14:08:53,601 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\GNLN\raw_GNLN_2025-02-20.csv
+2025-02-25 14:08:53,601 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-20
+2025-02-25 14:08:54,480 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\GNLN\raw_GNLN_2025-02-21.csv
+2025-02-25 14:08:54,480 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-21
+2025-02-25 14:08:56,378 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\GOVX\raw_GOVX_2025-02-03.csv
+2025-02-25 14:08:56,378 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-03
+2025-02-25 14:08:57,266 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\GOVX\raw_GOVX_2025-02-04.csv
+2025-02-25 14:08:57,266 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-04
+2025-02-25 14:08:58,149 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\GOVX\raw_GOVX_2025-02-05.csv
+2025-02-25 14:08:58,150 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-05
+2025-02-25 14:08:59,036 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\GOVX\raw_GOVX_2025-02-06.csv
+2025-02-25 14:08:59,037 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-06
+2025-02-25 14:08:59,920 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\GOVX\raw_GOVX_2025-02-07.csv
+2025-02-25 14:08:59,920 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-07
+2025-02-25 14:09:00,978 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\GOVX\raw_GOVX_2025-02-10.csv
+2025-02-25 14:09:00,978 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-10
+2025-02-25 14:09:01,882 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\GOVX\raw_GOVX_2025-02-11.csv
+2025-02-25 14:09:01,883 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-11
+2025-02-25 14:09:02,780 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\GOVX\raw_GOVX_2025-02-12.csv
+2025-02-25 14:09:02,781 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-12
+2025-02-25 14:09:03,666 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\GOVX\raw_GOVX_2025-02-13.csv
+2025-02-25 14:09:03,667 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-13
+2025-02-25 14:09:04,548 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\GOVX\raw_GOVX_2025-02-14.csv
+2025-02-25 14:09:04,548 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-14
+2025-02-25 14:09:05,433 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\GOVX\raw_GOVX_2025-02-17.csv
+2025-02-25 14:09:05,434 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-17
+2025-02-25 14:09:06,319 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\GOVX\raw_GOVX_2025-02-18.csv
+2025-02-25 14:09:06,319 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-18
+2025-02-25 14:09:07,199 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\GOVX\raw_GOVX_2025-02-19.csv
+2025-02-25 14:09:07,199 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-19
+2025-02-25 14:09:08,077 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\GOVX\raw_GOVX_2025-02-20.csv
+2025-02-25 14:09:08,078 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-20
+2025-02-25 14:09:08,960 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\GOVX\raw_GOVX_2025-02-21.csv
+2025-02-25 14:09:08,960 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-21
+2025-02-25 14:09:10,973 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\NNE\raw_NNE_2025-02-03.csv
+2025-02-25 14:09:10,974 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-03
+2025-02-25 14:09:11,856 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\NNE\raw_NNE_2025-02-04.csv
+2025-02-25 14:09:11,856 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-04
+2025-02-25 14:09:12,739 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\NNE\raw_NNE_2025-02-05.csv
+2025-02-25 14:09:12,740 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-05
+2025-02-25 14:09:13,621 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\NNE\raw_NNE_2025-02-06.csv
+2025-02-25 14:09:13,621 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-06
+2025-02-25 14:09:14,510 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\NNE\raw_NNE_2025-02-07.csv
+2025-02-25 14:09:14,511 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-07
+2025-02-25 14:09:15,404 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\NNE\raw_NNE_2025-02-10.csv
+2025-02-25 14:09:15,404 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-10
+2025-02-25 14:09:16,288 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\NNE\raw_NNE_2025-02-11.csv
+2025-02-25 14:09:16,288 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-11
+2025-02-25 14:09:19,141 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\NNE\raw_NNE_2025-02-12.csv
+2025-02-25 14:09:19,141 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-12
+2025-02-25 14:09:25,132 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\NNE\raw_NNE_2025-02-13.csv
+2025-02-25 14:09:25,133 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-13
+2025-02-25 14:09:31,135 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\NNE\raw_NNE_2025-02-14.csv
+2025-02-25 14:09:31,135 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-14
+2025-02-25 14:09:37,135 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\NNE\raw_NNE_2025-02-17.csv
+2025-02-25 14:09:37,135 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-17
+2025-02-25 14:09:38,018 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\NNE\raw_NNE_2025-02-18.csv
+2025-02-25 14:09:38,018 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-18
+2025-02-25 14:09:38,900 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\NNE\raw_NNE_2025-02-19.csv
+2025-02-25 14:09:38,900 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-19
+2025-02-25 14:09:39,779 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\NNE\raw_NNE_2025-02-20.csv
+2025-02-25 14:09:39,779 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-20
+2025-02-25 14:09:40,658 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\NNE\raw_NNE_2025-02-21.csv
+2025-02-25 14:09:40,658 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-21
+2025-02-25 14:09:49,130 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\SMCI\raw_SMCI_2025-02-03.csv
+2025-02-25 14:09:49,130 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-03
+2025-02-25 14:09:50,025 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\SMCI\raw_SMCI_2025-02-04.csv
+2025-02-25 14:09:50,025 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-04
+2025-02-25 14:09:50,969 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\SMCI\raw_SMCI_2025-02-05.csv
+2025-02-25 14:09:50,969 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-05
+2025-02-25 14:09:51,851 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\SMCI\raw_SMCI_2025-02-06.csv
+2025-02-25 14:09:51,851 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-06
+2025-02-25 14:09:52,734 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\SMCI\raw_SMCI_2025-02-07.csv
+2025-02-25 14:09:52,735 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-07
+2025-02-25 14:09:53,625 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\SMCI\raw_SMCI_2025-02-10.csv
+2025-02-25 14:09:53,626 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-10
+2025-02-25 14:09:54,513 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\SMCI\raw_SMCI_2025-02-11.csv
+2025-02-25 14:09:54,513 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-11
+2025-02-25 14:09:55,400 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\SMCI\raw_SMCI_2025-02-12.csv
+2025-02-25 14:09:55,400 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-12
+2025-02-25 14:09:56,289 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\SMCI\raw_SMCI_2025-02-13.csv
+2025-02-25 14:09:56,289 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-13
+2025-02-25 14:09:57,173 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\SMCI\raw_SMCI_2025-02-14.csv
+2025-02-25 14:09:57,173 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-14
+2025-02-25 14:09:58,058 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\SMCI\raw_SMCI_2025-02-17.csv
+2025-02-25 14:09:58,059 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-17
+2025-02-25 14:09:58,943 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\SMCI\raw_SMCI_2025-02-18.csv
+2025-02-25 14:09:58,943 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-18
+2025-02-25 14:09:59,840 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\SMCI\raw_SMCI_2025-02-19.csv
+2025-02-25 14:09:59,840 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-19
+2025-02-25 14:10:00,699 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\SMCI\raw_SMCI_2025-02-20.csv
+2025-02-25 14:10:00,700 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-20
+2025-02-25 14:10:01,580 - src.tradelab.data.ibkr_fetcher - INFO - Data saved to: D:\TradeLAB\data\raw\SMCI\raw_SMCI_2025-02-21.csv
+2025-02-25 14:10:01,581 - src.tradelab.data.ibkr_fetcher - INFO - Successfully saved 390 records for 2025-02-21
